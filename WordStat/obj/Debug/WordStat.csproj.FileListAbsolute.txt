@@ -1,0 +1,9 @@
+D:\WordStat\WordStat2\bin\Debug\WordStat2.exe.config
+D:\WordStat\WordStat2\bin\Debug\WordStat2.exe
+D:\WordStat\WordStat2\bin\Debug\WordStat2.pdb
+D:\WordStat\WordStat2\obj\Debug\WordStat.csprojResolveAssemblyReference.cache
+D:\WordStat\Debug\WordStat.exe.config
+D:\WordStat\Debug\WordStat.exe
+D:\WordStat\Debug\WordStat.pdb
+D:\WordStat\WordStat2\obj\Debug\WordStat.exe
+D:\WordStat\WordStat2\obj\Debug\WordStat.pdb

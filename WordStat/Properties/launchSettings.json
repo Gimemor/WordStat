@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordStat": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\WordCorpus\\text_splitted_corpus 8"
+    }
+  }
+}
