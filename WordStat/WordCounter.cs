@@ -33,13 +33,14 @@ namespace WordStat
 					foreach (Match match in matches)
 					{
 						// Добавляем количество встреченных слов
-						if (wordStatistics.ContainsKey(match.Value))
+						var word = match.Value.ToLower();
+						if (wordStatistics.ContainsKey(word))
 						{
-							wordStatistics[match.Value] += 1;
+							wordStatistics[word] += 1;
 						}
 						else
 						{
-							wordStatistics.Add(match.Value, 1);
+							wordStatistics.Add(word, 1);
 						}
 					}
 					currentString = file.ReadLine();
